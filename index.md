@@ -5,13 +5,13 @@ You will use this workbook to keep track of your progress through the course and
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*WYHIWF - What you hear is what you feel*
+####WYHIWF - What you hear is what you feel####
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Woojer*
+Woojer
 
 *https://www.woojer.com/strap/*
 
@@ -20,7 +20,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 This project is related to mine because Woojer has a very similar approach to my design intent; make people 'feel' the music. The device assists people feel the music on their body. Woojer markets itself as 'The ultimate on-the-go, hi-fidelity, powerful haptic…well, Strap!'. Woojer strap varies in the way that it does not concentrate on a specific part of the body, but can be worn wherever the user can. It also does not include people with ASD (Austism Spectrum Disorder) and people with hearing disabilities.
 
 ### Related project 2 ###
-*Skoog*
+Skoog
 
 *https://skoogmusic.com/*
 
@@ -29,7 +29,7 @@ This project is related to mine because Woojer has a very similar approach to my
 This project is related to mine because it tries to simplfy musical instruments, especially for children. Children and even adults who do not know how to play instruments are able to make music through skoog. 
 
 ### Related project 3 ###
-*Touched by Music*
+Touched by Music
 
 *http://trendnomad.com/tag/touched-by-music-en/*
 
@@ -38,7 +38,7 @@ This project is related to mine because it tries to simplfy musical instruments,
 This project is related to mine because a part of my design intent aligns with this prototype. The designer Katja Riley has built this prototype so that people with hearing disabilities and low hearing can feel music like everyone can. This project varies in a way that this will allow the user to receive and not interact with the signal received. 
 
 ### Related project 4 ###
-*Mobile Music Touch from Georgia Tech*
+Mobile Music Touch from Georgia Tech
 
 *https://www.youtube.com/watch?v=Zi6t89pi17c*
 
