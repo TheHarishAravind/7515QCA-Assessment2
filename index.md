@@ -88,7 +88,7 @@ MicroBit is the core of this product, it is the microcontroller which has the ac
 To create a wearable device that'll allow us to interact and manipulate audio and visual elements using haptic feedback. 
 
 ### Design concept 1 ###
-**#### Spiritact ####**
+#### **Spiritact** ####
 To create a wearable tactile spirit level using haptic feedback. Using the accelerometer capability of the microbit the vibration motors fixed on each finger tip through a finger glove will vibrate on each finger based on the direction of tilt. 
 
 ![Image](missingimage.png)
