@@ -1,7 +1,7 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
 ## Project working title ##
-**####WYHIWF - What you hear is what you feel###**
+####**WYHIWF - What you hear is what you feel**####
 
 ## Related projects ##
 ### Related project 1 ###
