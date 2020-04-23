@@ -5,7 +5,7 @@
 
 ## Related projects ##
 ### Related project 1 ###
-**####Woojer####**
+**#### Woojer ####**
 
 *https://www.woojer.com/strap/*
 
@@ -14,7 +14,7 @@
 This project is related to mine because Woojer has a very similar approach to my design intent; make people 'feel' the music. The device assists people feel the music on their body. Woojer markets itself as 'The ultimate on-the-go, hi-fidelity, powerful haptic…well, Strap!'. Woojer strap varies in the way that it does not concentrate on a specific part of the body, but can be worn wherever the user can. It also does not include people with ASD (Austism Spectrum Disorder) and people with hearing disabilities.
 
 ### Related project 2 ###
-**####Skoog####**
+**#### Skoog ####**
 
 *https://skoogmusic.com/*
 
@@ -23,7 +23,7 @@ This project is related to mine because Woojer has a very similar approach to my
 This project is related to mine because it tries to simplfy musical instruments, especially for children. Children and even adults who do not know how to play instruments are able to make music through skoog. 
 
 ### Related project 3 ###
-**####Touched by Music####**
+**#### Touched by Music ####**
 
 *http://trendnomad.com/tag/touched-by-music-en/*
 
@@ -32,7 +32,7 @@ This project is related to mine because it tries to simplfy musical instruments,
 This project is related to mine because a part of my design intent aligns with this prototype. The designer Katja Riley has built this prototype so that people with hearing disabilities and low hearing can feel music like everyone can. This project varies in a way that this will allow the user to receive and not interact with the signal received. 
 
 ### Related project 4 ###
-**####Mobile Music Touch from Georgia Tech####**
+**#### Mobile Music Touch from Georgia Tech ####**
 
 *https://www.youtube.com/watch?v=Zi6t89pi17c*
 
@@ -41,7 +41,7 @@ This project is related to mine because a part of my design intent aligns with t
 This project is related to mine because Mobile Music Touch uses the same principle of vibration to educate users of a skill without an actual instrument. This project stands as an example that tactile feedback can be used to teach people with motor complications.
 
 ### Related project 5 ###
-**####Haptic Feedback for Touchscreens####**
+**#### Haptic Feedback for Touchscreens ####**
 
 *https://www.youtube.com/watch?v=FiCqlYKRlAA*
 
@@ -87,7 +87,7 @@ MicroBit is the core of this product, it is the microcontroller which has the ac
 To create a wearable device that'll allow us to interact and manipulate audio and visual elements using haptic feedback. 
 
 ### Design concept 1 ###
-**####Spiritact####**
+**#### Spiritact ####**
 To create a wearable tactile spirit level using haptic feedback. Using the accelerometer capability of the microbit the vibration motors fixed on each finger tip through a finger glove will vibrate on each finger based on the direction of tilt. 
 
 ![Image](missingimage.png)
@@ -95,7 +95,7 @@ To create a wearable tactile spirit level using haptic feedback. Using the accel
 This is idea was inspired by Teslasuit. teslasuit is a haptic suit that allows people to feel digital objects in Virtual reality. 
 
 ### Design concept 2 ###
-**####Haptrainer####**
+**#### Haptrainer ####**
 
 The Haptrainer is a wearable bracelet that will help the user train for driving cars. The accelerometer will decide the threshold of turning the steering wheel and will alert the user with vibration on each wrist. Through practice, the user will remember the amount of effort required.
 
@@ -108,11 +108,11 @@ Mobile Music Touch from Georgia Tech acts on a similar principle helping people 
 ### Final design concept ###
 **WYHIWF - What you hear is what you feel**
 
-####**Concept**####
+#### **Concept** ####
 The WHYIWF - prononced whiff - is a device that is aimed at people with hearing disablities and ASD to feel, manipulate and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
 The user can also manipulate the pitch and speed of the music using light and accelerometer sensors. This allows the user to feel the music in the way they prefer. The vibrations will change in accordance to the pitch and speed of music.
 
-####**Construction**####
+#### **Construction** ####
 This device will be a wearable that will be worn on the nape of the neck for maximum sensation. The interaction will be manipulated using another MicroBit, where the user can use light sensor and accelerometer to change the pitch and speed of the music.
 
 ### Interaction flowchart ###
