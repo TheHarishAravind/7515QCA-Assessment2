@@ -12,7 +12,7 @@
 
 ![Image](missingimage.png)
 
-This project is related to mine because Woojer has a very similar approach to my design intent; make people 'feel' the music. The device assists people feel the music on their body. Woojer markets itself as 'The ultimate on-the-go, hi-fidelity, powerful haptic…well, Strap!'. Woojer strap varies in the way that it does not concentrate on a specific part of the body, but can be worn wherever the user can. It also does not include people with ASD (Austism Spectrum Disorder) and people with hearing disabilities.
+This project is related to mine because Woojer has a very similar approach to my design intent; make people 'feel' the music. The device assists people feel the music on their body. Woojer markets itself as 'The ultimate on-the-go, hi-fidelity, powerful haptic…well, Strap!'. Woojer strap varies in the way that it does not concentrate on a specific part of the body, but can be worn wherever the user can. While Woojer is stylish, It is not a style statement or a beauty accesory.
 
 ### Related project 2 ###
 #### **Skoog** ####
@@ -48,12 +48,12 @@ This project is related to mine because Mobile Music Touch uses the same princip
 
 ![Image](missingimage.png)
 
-This project is related to mine because this is one of the initial steps to interact with/feel digital artefacts in physical space. The feedback while is haptic, the feeling of the texture is felt by the person using the device.
+This project is related to mine because this is one of the initial steps to interact with/feel digital artefacts in physical space. The feedback is haptic and the feeling of the texture displayed on the flat-screen is felt by the person using the device.
 
 
 ## Other research ##
 1. Autistic Children Are More Responsive to Tactile Sensory Stimulus
-Tactile feedback is one of the ways to interact with digital/virtual world. This paper talks about how children with ASD react better to tactile feedback and tactile sensory stimulus. This paper is important to address a part of the major target audience for my project.
+Tactile feedback is one of the ways to interact with digital/virtual world. This paper talks about how children with ASD react better to tactile feedback and tactile sensory stimulus. This paper is a tangent my project can proceed if the experience is welcomed by all.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6160628/
 
 2. How to Program the BBC Micobit Accelerometer Using MakeCode
@@ -69,31 +69,35 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6108496/
 Purchase - https://core-electronics.com.au/shaftless-vibration-motor-10x3-4mm.html
 This motor is one of the output devices for the prototype. It outputs vibration or tactile feedback based on music and  user's manipulation of the music.
 
-2. 2 x Microbit - https://microbit.org/
-Purchase - https://core-electronics.com.au/brands/microbit-australia
-MicroBit is the core of this product, it is the microcontroller which has the accelerometer, light sensor and the radio function used in this prototype. All the other materials required for this prototype (except the vibration motors) is available in the Inventor's kit. An extra MicroBit is required to use as a remote to manipulate the sound.
+2. 1 x Condesing Microphone
+Purchase - https://www.jaycar.com.au/standard-microphone-insert/p/AM4010
+The microphone is a vital component of the prototype as it is required to sense the music and help convert the signal into light.
+
+4. 1 x Light Dependent Resitor
+The Light Dependpent Resistor or LDR is component that measures a.
 
 3. Other required materials    
     1 x Small Prototype Breadboard
-    1 x Transistor
-    1 x 2.2KΩ Resistor
-    1 x Edge Connector Breakout Board for BBC micro:bit
-    5 x Male to Female Jumper Wires
-    1 x Piezo Element Buzzer
+    1 x NPN 2N2222A Transistor
+    1 x NPN BC337 Transistor
+    1 x 33KΩ Resistor
+    1 x Condensign Micrphone
+    1 x Light Dependent Resistor
+    4 x Male to male Jumper Wires
     2 x Double AAA Battery packs
+    1 x 3V button cell
 
 ## Conceptual progress ##
 
 ### Design intent ###
-To create a wearable device that'll allow us to interact and manipulate audio and visual elements using haptic feedback. 
+To create a wearable device that'll allow us to interact and feel audio and visual elements through haptic feedback. 
 
 ### Design concept 1 ###
-#### **Spiritact** ####
-To create a wearable tactile spirit level using haptic feedback. Using the accelerometer capability of the microbit the vibration motors fixed on each finger tip through a finger glove will vibrate on each finger based on the direction of tilt. 
+#### **Vibestrument** ####
+A musical Instrument that gives musical output in the form of vibration. It functions similar to a Theremin but the has a part that will be held in hand and will give feedback based on accelerometer movements and light sensitivity.
 
 ![Image](missingimage.png)
 
-This is idea was inspired by Teslasuit. teslasuit is a haptic suit that allows people to feel digital objects in Virtual reality. 
 
 ### Design concept 2 ###
 #### **Haptrainer** ####
@@ -107,11 +111,11 @@ Mobile Music Touch from Georgia Tech acts on a similar principle helping people 
 ![Image](missingimage.png)
 
 ### Final design concept ###
-**WYHIWF - What you hear is what you feel**
+**Sensit**
 
 #### **Concept** ####
-The WHYIWF - prononced whiff - is a device that is aimed at people with hearing disablities and ASD to feel, manipulate and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
-The user can also manipulate the pitch and speed of the music using light and accelerometer sensors. This allows the user to feel the music in the way they prefer. The vibrations will change in accordance to the pitch and speed of music.
+The Sensit is a device that is aimed at providing a novel experience for people to feel and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
+The user can feel the music in their fingertips and the mechanism is activated by light. Using a Light Dependent 
 
 #### **Construction** ####
 This device will be a wearable that will be worn on the nape of the neck for maximum sensation. The interaction will be manipulated using another MicroBit, where the user can use light sensor and accelerometer to change the pitch and speed of the music.
