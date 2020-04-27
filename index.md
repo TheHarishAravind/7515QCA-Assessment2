@@ -121,7 +121,28 @@ Mobile Music Touch from Georgia Tech acts on a similar principle helping people 
 ### Design concept Tangent ###
 #### **WYHIWF - What you hear is What you feel** ####
 
+The WHYIWF - prononced whiff - is a device that is aimed at people with hearing disablities and ASD to feel, manipulate and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
+The user can also manipulate the pitch and speed of the music using light and accelerometer sensors. This allows the user to feel the music in the way they prefer. The vibrations will change in accordance to the pitch and speed of music.
 
+Making the vibration motors work
+
+![Image](missingimage.png)
+
+Radio control
+
+![Image](missingimage.png)
+
+Music play
+
+![Image](missingimage.png)
+
+Code for the Wearable
+
+![Image](missingimage.png)
+
+Code for the remote
+
+![Image](missingimage.png)
 
 ### Final design concept ###
 **Sensit**
