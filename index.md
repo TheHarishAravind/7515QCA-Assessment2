@@ -10,7 +10,7 @@
 
 *https://www.woojer.com/strap/*
 
-![Image](missingimage.png)
+![Image](woojer.png)
 
 This project is related to mine because Woojer has a very similar approach to my design intent; make people 'feel' the music. The device assists people feel the music on their body. Woojer markets itself as 'The ultimate on-the-go, hi-fidelity, powerful haptic…well, Strap!'. Woojer strap varies in the way that it does not concentrate on a specific part of the body, but can be worn wherever the user can. While Woojer is stylish, It is not a style statement or a beauty accesory.
 
@@ -28,7 +28,7 @@ This project is related to mine because it tries to simplfy musical instruments,
 
 *http://trendnomad.com/tag/touched-by-music-en/*
 
-![Image](missingimage.png)
+![Image](skoog.png)
 
 This project is related to mine because a part of my design intent aligns with this prototype. The designer Katja Riley has built this prototype so that people with hearing disabilities and low hearing can feel music like everyone can. This project varies in a way that this will allow the user to receive and not interact with the signal received. 
 
@@ -37,8 +37,6 @@ This project is related to mine because a part of my design intent aligns with t
 
 [![Image](mmt.png)](https://www.youtube.com/watch?v=Zi6t89pi17c "Mobile Music Touch")
 *https://www.youtube.com/watch?v=Zi6t89pi17c*
-
-![Image](missingimage.png)
 
 This project is related to mine because Mobile Music Touch uses the same principle of vibration to educate users of a skill without an actual instrument. This project stands as an example that tactile feedback can be used to teach people with motor complications.
 
@@ -61,7 +59,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6160628/
 This video that details how to use the MicroBit Radio functionality to create a remote control for a MicroBit controlled car. This explanation helped me understand how to code for the radio functionality.
 
 3. Dissociable sources of erogeneity in social touch: Imagining and perceiving C-Tactile optimal touch in erogenous zones
-This paper helped me understand the importance of why neck is an imporatant sensory region. 
+This paper helped me understand the importance of sensory regions in our body. 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6108496/
 
 ### *Brief resource name/description* ###
@@ -117,17 +115,13 @@ Mobile Music Touch from Georgia Tech acts on a similar principle helping people 
 
 *https://www.youtube.com/watch?v=Zi6t89pi17c*
 
-![Image](missingimage.png)
+![Image](driving.png)
 
-### Design concept Tangent ###
+### Design concept tangent trial ###
 #### **WYHIWF - What you hear is What you feel** ####
 
 The WHYIWF - prononced whiff - is a device that is aimed at people with hearing disablities and ASD to feel, manipulate and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
 The user can also manipulate the pitch and speed of the music using light and accelerometer sensors. This allows the user to feel the music in the way they prefer. The vibrations will change in accordance to the pitch and speed of music.
-
-Making the vibration motors work
-
-![Image](missingimage.png)
 
 Radio control
 
@@ -139,11 +133,11 @@ Music play
 
 Code for the Wearable
 
-![Image](missingimage.png)
+![Image](scode.png)
 
 Code for the remote
 
-![Image](missingimage.png)
+![Image](rcode.png)
 
 ### Final design concept ###
 **Sensit**
@@ -151,6 +145,8 @@ Code for the remote
 #### **Concept** ####
 The Sensit is a collection devices that are aimed at providing a novel experience for people to feel and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
 The user can feel the music in their fingertips and this mechanism is activated by light. One of the main devices of Sensit is are finger gloves that give haptic feedback to your fingertips. 
+
+![Image](glove.png)
 
 #### **Construction** ####
 This experience will consist of 2 wearables
@@ -162,9 +158,7 @@ The Sesnit consists of two main mechanisms,
 2. Light sensing- This light varies in its luminosity based on the music beat. The LDR takes the light as input due to which the vibrating motors.
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
-
-![Image](missingimage.png)
+![Image](flowchart1.png)
 
 ## Physical experimentation documentation ##
 
@@ -172,24 +166,27 @@ The challenge with the physical construction of this device was in making the vi
 
 Making the vibration motors work
 
-![Image](missingimage.png)
+![Image](board.png)
 
-Radio control
+Testing feel of cotton
 
-![Image](missingimage.png)
+![Image](cottontest.png)
 
-Music play
-
-![Image](missingimage.png)
-
-Code for the Wearable
+Dual vibration motors
 
 ![Image](missingimage.png)
 
-Code for the remote
+A simple construction to hoist vibration motors and test the vibration feedback on palm.
 
-![Image](missingimage.png)
+![Image](vpedestal.png)
 
+Barebones circuit of the vibrating element of the device
+
+![Image](vpedestal.png)
+
+Sound sensing circuit
+
+![Image](20200426_211531.png)
 
 ## Design process discussion ##
 The Double Diamond design process has been very helpful through out this fabrication. Having started with my Design Concept 2 as my main project, I was almost at the end of my prototype fabrication. But having a conversation with my Lecturer helped my understand that I have been working with my hands tied behind my back. I had issues in the first section of the double diamond as I was trying to solve a problem I did not have or feel. I had a tunnel vision that I would be able to solve a problem just by reading and researching about it. While my intent was positive, my effort was no answer for the real problems that people faced. Having my head cleared, I had to build my idea from scratch. In this process, I have learnt that the double diamond is a very valuable process to follow. It has also reminded me that not only the result is important, but one can learn a lot from the process also. 
