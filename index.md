@@ -1,7 +1,7 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
 ## Project working title ##
-#### **WYHIWF - What you hear is what you feel** ####
+#### **Sensit** ####
 
 
 ## Related projects ##
@@ -74,14 +74,14 @@ Purchase - https://www.jaycar.com.au/standard-microphone-insert/p/AM4010
 The microphone is a vital component of the prototype as it is required to sense the music and help convert the signal into light.
 
 4. 1 x Light Dependent Resitor
-The Light Dependpent Resistor or LDR is component that measures a.
+The Light Dependpent Resistor or LDR is component that changes its resistancce value based on the amount of light incident on it. 
 
 3. Other required materials    
     1 x Small Prototype Breadboard
     1 x NPN 2N2222A Transistor
     1 x NPN BC337 Transistor
     1 x 33KΩ Resistor
-    1 x Condensign Micrphone
+    1 x Condensing Micrphone
     1 x Light Dependent Resistor
     4 x Male to male Jumper Wires
     2 x Double AAA Battery packs
@@ -92,14 +92,14 @@ The Light Dependpent Resistor or LDR is component that measures a.
 ### Design intent ###
 To create a wearable device that'll allow us to interact and feel audio and visual elements through haptic feedback. 
 
-### Design concept 1 ###
+### Design concept 0 ###
 #### **Vibestrument** ####
-A musical Instrument that gives musical output in the form of vibration. It functions similar to a Theremin but the has a part that will be held in hand and will give feedback based on accelerometer movements and light sensitivity.
+A musical Instrument that gives musical output in the form of vibration. It functions similar to a Theremin. The construction will be such that a MicroBit will be held in hand and will give feedback to the back of your palms and fingers based on the accelerometer movements and light sensitivity.
 
 ![Image](missingimage.png)
 
 
-### Design concept 2 ###
+### Design concept 1 ###
 #### **Haptrainer** ####
 
 The Haptrainer is a wearable bracelet that will help the user train for driving cars. The accelerometer will decide the threshold of turning the steering wheel and will alert the user with vibration on each wrist. Through practice, the user will remember the amount of effort required.
@@ -110,15 +110,26 @@ Mobile Music Touch from Georgia Tech acts on a similar principle helping people 
 
 ![Image](missingimage.png)
 
+### Design concept 2 ###
+#### **WYHIWF - What you hear is What you feel** ####
+
+
+
 ### Final design concept ###
 **Sensit**
 
 #### **Concept** ####
-The Sensit is a device that is aimed at providing a novel experience for people to feel and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
-The user can feel the music in their fingertips and the mechanism is activated by light. Using a Light Dependent 
+The Sensit is a collection devices that are aimed at providing a novel experience for people to feel and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
+The user can feel the music in their fingertips and this mechanism is activated by light. One of the main devices of Sensit is are finger gloves that give haptic feedback to your fingertips. 
 
 #### **Construction** ####
-This device will be a wearable that will be worn on the nape of the neck for maximum sensation. The interaction will be manipulated using another MicroBit, where the user can use light sensor and accelerometer to change the pitch and speed of the music.
+This experience will consist of 2 wearables
+1. Finglet - A finger glove that will be worn on your fingers that will be reactive to the music. 
+2. Earworm - An Earring set that give gaptic feedback to your earlobes* 
+
+The Sesnit consists of two main mechanisms,
+1. Sound sensing - To feel music, it is also vital that the device senses music. To enable this, a condensig microphone is is used to 'listen' to the music played convert that into light using NPN transistor (2N2222A). 
+2. Light sensing- This light varies in its luminosity based on the music beat. The LDR takes the light as input due to which the vibrating motors.
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -146,10 +157,18 @@ Code for the remote
 
 
 ## Design process discussion ##
-The Double Diamond design process has been very helpful through out this fabrication. It has helped me focus on the problem at hand rather than going on a tanget. By doing adequate research on the currently available technology and devices, I was able to **discover** the problem I need to address. With a plethora of devices with very similar technology to mine, I had to **define** my shortcomings of the problem so that I could **develop** proper solutions. The feedback I had asked from people regarding how they'd like to feel music and how people like having something on their neck has given me a better idea on how to proceed forward.
-Using the double diamond process I was able to look at the niche where there are not many devices that address the exact issue of music interactivity for people with hearing disabilities and ASD, I was able to create a basic prototype. I am confident that I can **deliver** a working product after a few cycles of iteration and polishing and user feedback. 
+The Double Diamond design process has been very helpful through out this fabrication. Having started with my Design Concept 2 as my main project, I was almost at the end of my prototype fabrication. But having a conversation with my Lecturer helped my understand that I have been working with my hands tied behind my back. I had issues in the first section of the double diamond as I was trying to solve a problem I did not have or feel. I had a tunnel vision that I would be able to solve a problem just by reading and researching about it. While my intent was positive, my effort was no answer for the real problems that people faced. Having my head cleared, I had to build my idea from scratch. In this process, I have learnt that the double diamond is a very valuable process to follow. It has also reminded me that not only the result is important, but one can learn a lot from the process also. 
+
+The double diamond process has helped me focus on the problem I know of rather than going on a tanget. By doing adequate research on the currently available technology and devices, I was able to **discover** the problem I need to address; creating an experience for myself to feel music. With a plethora of devices with very similar technology to mine, I was able to **define** my project with much clarity. With my  discussions with many friends and family including my lecturer, I was able to identify the shortcomings of my design. This is now helping me **develop** the experience I want. 
+Using the double diamond process I was able to look at the niche where there are not many devices that address the exact issue of music interactivity and 'tactile music experience', I was able to create a basic prototype. I am confident that I can **deliver** a working product after a few cycles of iteration and polishing and user feedback. 
 
 ## Next steps ##
-Doing this prototype project has me quite excited for the final product. I will not start focusing on making this into a wearable size and updating the components such that they have very low latency and are not uncomfortable for people to wear.
+1. Doing this prototype project has me quite excited for the final product. I will now start focusing on making this into a wearable form factor.
 
-I would also like conduct more user surveys among friends and family increasing my sample size. I feel that this will give me a better idea on the shape and structure I should zero in on.
+2. I am also keen on conducting more user surveys among friends. I feel that this will give me a better idea on the shape and structure I should zero in on.
+
+3. Updating the components such that they have very low latency and give instant feedback. Waiting for an Arduino I have ordered to couple it with a Sound Sensor for better feedback.
+
+4. Material selection is also vital part of my process. 
+
+5. Making sure I stay on the same line of thought without going off on a tangent.
