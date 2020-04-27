@@ -1,7 +1,7 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
 ## Project working title ##
-#### **Sensit** ####
+## **Sensit** ##
 
 
 ## Related projects ##
