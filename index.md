@@ -10,7 +10,7 @@
 
 *https://www.woojer.com/strap/*
 
-![Image](woojer.png) (https://www.woojer.com/strap/ "Skoog")
+[![Image](woojer.png)](https://www.woojer.com/strap/ "Skoog")
 
 This project is related to mine because Woojer has a very similar approach to my design intent; make people 'feel' the music. The device assists people feel the music on their body. Woojer markets itself as 'The ultimate on-the-go, hi-fidelity, powerful haptic…well, Strap!'. Woojer strap varies in the way that it does not concentrate on a specific part of the body, but can be worn wherever the user can. While Woojer is stylish, It is not a style statement or a beauty accesory.
 
@@ -19,7 +19,7 @@ This project is related to mine because Woojer has a very similar approach to my
 
 *https://skoogmusic.com/*
 
-![Image](skoog.png) (https://skoogmusic.com/ "Skoog")
+[![Image](skoog.png)](https://skoogmusic.com/ "Skoog")
 
 This project is related to mine because it tries to simplfy musical instruments, especially for children. Children and even adults who do not know how to play instruments are able to make music through skoog. 
 
@@ -28,7 +28,7 @@ This project is related to mine because it tries to simplfy musical instruments,
 
 *http://trendnomad.com/tag/touched-by-music-en/*
 
-![Image](Tbm.png)(http://trendnomad.com/tag/touched-by-music-en/ "Touched By Music")
+[![Image](Tbm.png)](http://trendnomad.com/tag/touched-by-music-en/ "Touched By Music")
 
 This project is related to mine because a part of my design intent aligns with this prototype. The designer Katja Riley has built this prototype so that people with hearing disabilities and low hearing can feel music like everyone can. This project varies in a way that this will allow the user to receive and not interact with the signal received. 
 
@@ -47,7 +47,7 @@ This project is related to mine because Mobile Music Touch uses the same princip
 
 *https://www.youtube.com/watch?v=FiCqlYKRlAA*
 
-![Image](hapticfeed.png)(https://www.youtube.com/watch?v=FiCqlYKRlAA "Haptic Feedback for Touchscreens")
+[![Image](hapticfeed.png)](https://www.youtube.com/watch?v=FiCqlYKRlAA "Haptic Feedback for Touchscreens")
 
 This project is related to mine because this is one of the initial steps to interact with/feel digital artefacts in physical space. The feedback is haptic and the feeling of the texture displayed on the flat-screen is felt by the person using the device.
 
@@ -163,10 +163,12 @@ The Sesnit consists of two main mechanisms,
 The challenge with the physical construction of this device was in making the vibation motor vibrate in sync with the music. As of this stage the music is 8 bit music played through a piezo electric speaker. 
 
 Making the vibration motors work
+The initial testing began with testing the vibration motors sensitivity using microbit. The vibration motors were sensitive enough to pick up the lowest points of Microbit's 8-bit music.
 
 ![Image](board.png)
 
 Testing feel of cotton
+Wanting to understand the feel of different materials I started out with cotton and blue tack on finger tips. While cotton was quite dry and slippery, bluetack was firm and absorbed the vibrations. I was not able to spend more time on this owing to the time constrataint.
 
 ![Image](cottontest.png)
 
@@ -175,16 +177,26 @@ Dual vibration motors
 ![Image](vibemotor.png)
 
 A simple construction to hoist vibration motors and test the vibration feedback on palm.
+I thought about how a simple 4 pronged structure with a vibration motor hoisted on the top of it would feel on our palm. Thouht it was hard to make it work as I wished, the few moments of feedback I got was quite good. I had to let it go owing to the rapid mobility of the device.
 
 ![Image](vpedestal.png)
 
 Barebones circuit of the vibrating element of the device
+This is the barebones cicuit of the light sensing vibration feedback circuit. Equipped with an LDR, the motor changes in vibration intensity depending upon the light input in the LDR
 
 ![Image](vibec.png)
 
 Sound sensing circuit
+The condensing mic listens to the sounds and helps turn that signal into light flashes which will be read by the the light sensing circuit
 
 ![Image](20200426_211531.png)
+
+[![Image](Vibetest.png)](https://youtu.be/WNKq8rjE-go "Vibration feedback test using live music")
+
+Testing the colour range of the LDR
+I noticed that the LDR is reactive to different colour wavelengths. There were certain colours that the LDR did not pick up despite maximum brightness. Blue was one of the colours that LDR reacted minimally. Orange and yellow were the favourable colors of for the circuit.
+
+[![Image](colortest.png)](https://youtu.be/-vViloBOnX8 "Vibration Motor Color range test")
 
 ## Design process discussion ##
 The Double Diamond design process has been very helpful through out this fabrication. Having started with my Design Concept 2 as my main project, I was almost at the end of my prototype fabrication. But having a conversation with my Lecturer helped my understand that I have been working with my hands tied behind my back. I had issues in the first section of the double diamond as I was trying to solve a problem I did not have or feel. I had a tunnel vision that I would be able to solve a problem just by reading and researching about it. While my intent was positive, my effort was no answer for the real problems that people faced. Having my head cleared, I had to build my idea from scratch. In this process, I have learnt that the double diamond is a very valuable process to follow. It has also reminded me that not only the result is important, but one can learn a lot from the process also. 
