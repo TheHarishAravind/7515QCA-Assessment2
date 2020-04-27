@@ -10,7 +10,7 @@
 
 *https://www.woojer.com/strap/*
 
-![Image](woojer.png)
+![Image](woojer.png) (https://www.woojer.com/strap/ "Skoog")
 
 This project is related to mine because Woojer has a very similar approach to my design intent; make people 'feel' the music. The device assists people feel the music on their body. Woojer markets itself as 'The ultimate on-the-go, hi-fidelity, powerful haptic…well, Strap!'. Woojer strap varies in the way that it does not concentrate on a specific part of the body, but can be worn wherever the user can. While Woojer is stylish, It is not a style statement or a beauty accesory.
 
@@ -19,7 +19,7 @@ This project is related to mine because Woojer has a very similar approach to my
 
 *https://skoogmusic.com/*
 
-![Image](missingimage.png)
+![Image](skoog.png) (https://skoogmusic.com/ "Skoog")
 
 This project is related to mine because it tries to simplfy musical instruments, especially for children. Children and even adults who do not know how to play instruments are able to make music through skoog. 
 
@@ -28,15 +28,17 @@ This project is related to mine because it tries to simplfy musical instruments,
 
 *http://trendnomad.com/tag/touched-by-music-en/*
 
-![Image](skoog.png)
+![Image](Tbm.png)(http://trendnomad.com/tag/touched-by-music-en/ "Touched By Music")
 
 This project is related to mine because a part of my design intent aligns with this prototype. The designer Katja Riley has built this prototype so that people with hearing disabilities and low hearing can feel music like everyone can. This project varies in a way that this will allow the user to receive and not interact with the signal received. 
 
 ### Related project 4 ###
 #### **Mobile Music Touch from Georgia Tech** ####
 
-[![Image](mmt.png)](https://www.youtube.com/watch?v=Zi6t89pi17c "Mobile Music Touch")
 *https://www.youtube.com/watch?v=Zi6t89pi17c*
+
+[![Image](mmt.png)](https://www.youtube.com/watch?v=Zi6t89pi17c "Mobile Music Touch")
+
 
 This project is related to mine because Mobile Music Touch uses the same principle of vibration to educate users of a skill without an actual instrument. This project stands as an example that tactile feedback can be used to teach people with motor complications.
 
@@ -45,7 +47,7 @@ This project is related to mine because Mobile Music Touch uses the same princip
 
 *https://www.youtube.com/watch?v=FiCqlYKRlAA*
 
-![Image](missingimage.png)
+![Image](hapticfeed.png)(https://www.youtube.com/watch?v=FiCqlYKRlAA "Haptic Feedback for Touchscreens")
 
 This project is related to mine because this is one of the initial steps to interact with/feel digital artefacts in physical space. The feedback is haptic and the feeling of the texture displayed on the flat-screen is felt by the person using the device.
 
@@ -103,7 +105,7 @@ To create a wearable device that'll allow us to interact and feel audio and visu
 #### **Vibestrument** ####
 A musical Instrument that gives musical output in the form of vibration. It functions similar to a Theremin. The construction will be such that a MicroBit will be held in hand and will give feedback to the back of your palms and fingers based on the accelerometer movements and light sensitivity.
 
-![Image](missingimage.png)
+![Image](music.png)
 
 
 ### Design concept 2 ###
@@ -125,11 +127,7 @@ The user can also manipulate the pitch and speed of the music using light and ac
 
 Radio control
 
-![Image](missingimage.png)
-
-Music play
-
-![Image](missingimage.png)
+![Image](working.png)
 
 Code for the Wearable
 
@@ -174,7 +172,7 @@ Testing feel of cotton
 
 Dual vibration motors
 
-![Image](missingimage.png)
+![Image](vibemotor.png)
 
 A simple construction to hoist vibration motors and test the vibration feedback on palm.
 
@@ -182,7 +180,7 @@ A simple construction to hoist vibration motors and test the vibration feedback 
 
 Barebones circuit of the vibrating element of the device
 
-![Image](vpedestal.png)
+![Image](vibec.png)
 
 Sound sensing circuit
 
