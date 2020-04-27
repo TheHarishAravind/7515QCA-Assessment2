@@ -100,14 +100,14 @@ The Light Dependpent Resistor or LDR is component that changes its resistancce v
 ### Design intent ###
 To create a wearable device that'll allow us to interact and feel audio and visual elements through haptic feedback. 
 
-### Design concept 0 ###
+### Design concept 1 ###
 #### **Vibestrument** ####
 A musical Instrument that gives musical output in the form of vibration. It functions similar to a Theremin. The construction will be such that a MicroBit will be held in hand and will give feedback to the back of your palms and fingers based on the accelerometer movements and light sensitivity.
 
 ![Image](missingimage.png)
 
 
-### Design concept 1 ###
+### Design concept 2 ###
 #### **Haptrainer** ####
 
 The Haptrainer is a wearable bracelet that will help the user train for driving cars. The accelerometer will decide the threshold of turning the steering wheel and will alert the user with vibration on each wrist. Through practice, the user will remember the amount of effort required.
@@ -118,7 +118,7 @@ Mobile Music Touch from Georgia Tech acts on a similar principle helping people 
 
 ![Image](missingimage.png)
 
-### Design concept 2 ###
+### Design concept Tangent ###
 #### **WYHIWF - What you hear is What you feel** ####
 
 
