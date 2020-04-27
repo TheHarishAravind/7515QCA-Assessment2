@@ -113,10 +113,6 @@ A musical Instrument that gives musical output in the form of vibration. It func
 
 The Haptrainer is a wearable bracelet that will help the user train for driving cars. The accelerometer will decide the threshold of turning the steering wheel and will alert the user with vibration on each wrist. Through practice, the user will remember the amount of effort required.
 
-Mobile Music Touch from Georgia Tech acts on a similar principle helping people learn music instruments.
-
-*https://www.youtube.com/watch?v=Zi6t89pi17c*
-
 ![Image](driving.png)
 
 ### Design concept tangent trial ###
@@ -142,7 +138,7 @@ Code for the remote
 [![Image](acctest.png)](https://youtu.be/-vViloBOnX8 "Vibration Motor Color range test")
 
 ### Final design concept ###
-**Sensit**
+## **Sensit** ##
 
 #### **Concept** ####
 The Sensit is a collection devices that are aimed at providing a novel experience for people to feel and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
