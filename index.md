@@ -78,13 +78,21 @@ The Light Dependpent Resistor or LDR is component that changes its resistancce v
 
 3. Other required materials    
     1 x Small Prototype Breadboard
+    
     1 x NPN 2N2222A Transistor
+    
     1 x NPN BC337 Transistor
+    
     1 x 33KΩ Resistor
+    
     1 x Condensing Micrphone
+    
     1 x Light Dependent Resistor
+    
     4 x Male to male Jumper Wires
+    
     2 x Double AAA Battery packs
+    
     1 x 3V button cell
 
 ## Conceptual progress ##
@@ -141,18 +149,23 @@ The Sesnit consists of two main mechanisms,
 The challenge with the physical construction of this device was in making the vibation motor vibrate in sync with the music. As of this stage the music is 8 bit music played through a piezo electric speaker. 
 
 Making the vibration motors work
+
 ![Image](missingimage.png)
 
 Radio control
+
 ![Image](missingimage.png)
 
 Music play
+
 ![Image](missingimage.png)
 
 Code for the Wearable
+
 ![Image](missingimage.png)
 
 Code for the remote
+
 ![Image](missingimage.png)
 
 
