@@ -34,7 +34,7 @@ This project is related to mine because a part of my design intent aligns with t
 
 ### Related project 4 ###
 #### **Mobile Music Touch from Georgia Tech** ####
-
+(http://www.youtube.com/watch?v=Zi6t89pi17c "Mobile Music Touch Georgia Tech")
 *https://www.youtube.com/watch?v=Zi6t89pi17c*
 
 ![Image](missingimage.png)
