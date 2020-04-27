@@ -191,7 +191,7 @@ The condensing mic listens to the sounds and helps turn that signal into light f
 
 ![Image](20200426_211531.png)
 
-[![Image](Vibetest.png)](https://youtu.be/WNKq8rjE-go "Vibration feedback test using live music")
+[![Image](vibetest.png)](https://youtu.be/WNKq8rjE-go "Vibration feedback test using live music")
 
 Testing the colour range of the LDR
 I noticed that the LDR is reactive to different colour wavelengths. There were certain colours that the LDR did not pick up despite maximum brightness. Blue was one of the colours that LDR reacted minimally. Orange and yellow were the favourable colors of for the circuit.
