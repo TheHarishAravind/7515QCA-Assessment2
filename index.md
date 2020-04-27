@@ -137,6 +137,10 @@ Code for the remote
 
 ![Image](rcode.png)
 
+[![Image](ltest.png)](https://youtu.be/P7SSKLZ5Shs "WYHIWF accelerometer manipulation")
+
+[![Image](acctest.png)](https://youtu.be/-vViloBOnX8 "Vibration Motor Color range test")
+
 ### Final design concept ###
 **Sensit**
 
