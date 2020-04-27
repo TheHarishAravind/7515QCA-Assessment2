@@ -75,6 +75,7 @@ Purchase - https://www.jaycar.com.au/standard-microphone-insert/p/AM4010
 The microphone is a vital component of the prototype as it is required to sense the music and help convert the signal into light.
 
 4. 1 x Light Dependent Resitor
+Purchase - https://core-electronics.com.au/mini-photocell-8807.html
 The Light Dependpent Resistor or LDR is component that changes its resistancce value based on the amount of light incident on it. 
 
 3. Other required materials    
@@ -133,9 +134,13 @@ Code for the remote
 
 ![Image](rcode.png)
 
+WYHIWF accelerometer manipulation
+
 [![Image](ltest.png)](https://youtu.be/P7SSKLZ5Shs "WYHIWF accelerometer manipulation")
 
-[![Image](acctest.png)](https://youtu.be/-vViloBOnX8 "Vibration Motor Color range test")
+WYHIWF light manipulation
+
+[![Image](acctest.png)](https://youtu.be/blgDDnabuF4 "WYHIWF light manipulation")
 
 ### Final design concept ###
 ## **Sensit** ##
@@ -191,10 +196,14 @@ The condensing mic listens to the sounds and helps turn that signal into light f
 
 ![Image](20200426_211531.png)
 
+Vibration feedback test using live music
+
 [![Image](vibetest.png)](https://youtu.be/WNKq8rjE-go "Vibration feedback test using live music")
 
 Testing the colour range of the LDR
 I noticed that the LDR is reactive to different colour wavelengths. There were certain colours that the LDR did not pick up despite maximum brightness. Blue was one of the colours that LDR reacted minimally. Orange and yellow were the favourable colors of for the circuit.
+
+Vibration Motor Color range test
 
 [![Image](colortest.png)](https://youtu.be/-vViloBOnX8 "Vibration Motor Color range test")
 
