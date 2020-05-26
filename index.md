@@ -8,9 +8,9 @@
 ### Related project 1 ###
 #### **Woojer** ####
 
-*https://www.woojer.com/strap/*
+*https://www.youtube.com/watch?v=hh5gDFKGIrI&t=197s*
 
-[![Image](woojer.png)](https://www.woojer.com/strap/ "Skoog")
+[![Image](woojer.png)](https://www.youtube.com/watch?v=hh5gDFKGIrI&t=197s "Skoog")
 
 This project is related to mine because Woojer has a very similar approach to my design intent; make people 'feel' the music. The device assists people feel the music on their body. Woojer markets itself as 'The ultimate on-the-go, hi-fidelity, powerful haptic…well, Strap!'. Woojer strap varies in the way that it does not concentrate on a specific part of the body, but can be worn wherever the user can. While Woojer is stylish, It is not a style statement or a beauty accesory.
 
@@ -117,9 +117,9 @@ The Haptrainer is a wearable bracelet that will help the user train for driving 
 ![Image](driving.png)
 
 ### Design concept tangent trial ###
-#### **WYHIWF - What you hear is What you feel** ####
+#### **WYHIWYF - What you hear is What you feel** ####
 
-The WHYIWF - prononced whiff - is a device that is aimed at people with hearing disablities and ASD to feel, manipulate and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
+The WYHIWYF - prononced whiff - is a device that is aimed at people with hearing disablities and ASD to feel, manipulate and interact with music through tactile feedback. This device uses vibrations that play in accordance to highs and lows of the music being played. 
 The user can also manipulate the pitch and speed of the music using light and accelerometer sensors. This allows the user to feel the music in the way they prefer. The vibrations will change in accordance to the pitch and speed of music.
 
 Radio control
@@ -154,7 +154,7 @@ The user can feel the music in their fingertips and this mechanism is activated 
 #### **Construction** ####
 This experience will consist of 2 wearables
 1. Finglet - A finger glove that will be worn on your fingers that will be reactive to the music. 
-2. Earworm - An Earring set that give gaptic feedback to your earlobes* 
+2. Earworm - An Earring set that give haptic feedback to your earlobes* 
 
 The Sesnit consists of two main mechanisms,
 1. Sound sensing - To feel music, it is also vital that the device senses music. To enable this, a condensig microphone is is used to 'listen' to the music played convert that into light using NPN transistor (2N2222A). 
